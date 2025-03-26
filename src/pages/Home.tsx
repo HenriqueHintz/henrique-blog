@@ -12,7 +12,7 @@ function Home() {
               Henrique Hintz Pompeo Pereira
             </h1>
             <p className="text-lg sm:text-xl text-blue-600 font-semibold mb-6">
-              Desenvolvedor Full Stack & Empreendedor Digital
+              
             </p>
             <div className="prose prose-lg text-gray-600 mb-8">
               <p className="text-sm sm:text-base">
