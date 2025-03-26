@@ -1,4 +1,4 @@
-// ES Module syntax
+// ES Module syntax - with .mjs extension
 import { execSync } from 'child_process';
 
 console.log('Starting custom Netlify build script...');
