@@ -1,0 +1,13 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="8" fill="#2563EB"/>
+  <!-- H esquerdo -->
+  <path d="M4 8H7V14H11V8H14V24H11V17H7V24H4V8Z" fill="white"/>
+  <!-- H direito -->
+  <path d="M16 8H19V14H23V8H26V24H23V17H19V24H16V8Z" fill="white"/>
+  <!-- Elementos de tecnologia -->
+  <circle cx="16" cy="16" r="2" fill="#4ADE80" opacity="0.7"/>
+  <path d="M16 6V10" stroke="#4ADE80" stroke-width="1" stroke-linecap="round"/>
+  <path d="M16 22V26" stroke="#4ADE80" stroke-width="1" stroke-linecap="round"/>
+  <path d="M6 16H10" stroke="#4ADE80" stroke-width="1" stroke-linecap="round"/>
+  <path d="M22 16H26" stroke="#4ADE80" stroke-width="1" stroke-linecap="round"/>
+</svg> 
