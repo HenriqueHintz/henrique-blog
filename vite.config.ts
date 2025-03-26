@@ -6,15 +6,8 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['/src/main.tsx'],
       input: 'index.html'
-    },
-    sourcemap: true,
-    minify: 'esbuild'
-  },
-  optimizeDeps: {
-    exclude: ['lucide-react'],
-    include: ['react', 'react-dom', 'react-router-dom']
+    }
   },
   server: {
     port: 3000,
